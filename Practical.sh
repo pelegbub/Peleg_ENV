@@ -6,4 +6,4 @@ find / -type f -name "*.log" -mtime +7
 
 echo "peleg"
 
-echo "ppp"
+echo "pasdfasdfadsfpp"
